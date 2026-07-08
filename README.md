@@ -58,6 +58,7 @@ Actualmente estoy fortaleciendo mis conocimientos en desarrollo **Full Stack**, 
 ## 🎯 Objetivo profesional
 
 Aspiro a contribuir en el desarrollo de soluciones tecnológicas que generen un impacto positivo, combinando aprendizaje continuo, innovación y buenas prácticas de ingeniería para crear software útil, eficiente y de calidad.
+
 ---
 
 > *"Cada proyecto es una oportunidad para aprender, mejorar y construir soluciones que aporten valor."*
