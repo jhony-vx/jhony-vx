@@ -66,10 +66,10 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 | | |
 |---|---|
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Java, JavaScript, TypeScript, HTML, CSS" /> |
-| **Frameworks y librerías** | <img src="https://skillicons.dev/icons?i=spring,react,vite,tailwind,bootstrap&theme=dark" alt="Spring Boot, React, Vite, Tailwind CSS, Bootstrap" /> |
-| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,mssql,supabase&theme=dark" alt="MySQL, SQL Server, Supabase" /> |
-| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,idea,linux&theme=dark" alt="Git, GitHub, VS Code, Apache NetBeans, IntelliJ IDEA, Linux" /> |
+| **Lenguajes** | ![Java](https://img.shields.io/badge/Java-0A101F?style=flat-square&logo=openjdk&logoColor=22D3EE) ![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=A78BFA) ![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=22D3EE) ![HTML5](https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=A78BFA) ![CSS3](https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css3&logoColor=22D3EE) |
+| **Frameworks y librerías** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A101F?style=flat-square&logo=springboot&logoColor=10B981) ![React](https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=22D3EE) ![Vite](https://img.shields.io/badge/Vite-0A101F?style=flat-square&logo=vite&logoColor=A78BFA) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A101F?style=flat-square&logo=tailwindcss&logoColor=22D3EE) ![Bootstrap](https://img.shields.io/badge/Bootstrap-0A101F?style=flat-square&logo=bootstrap&logoColor=A78BFA) |
+| **Bases de datos** | ![MySQL](https://img.shields.io/badge/MySQL-0A101F?style=flat-square&logo=mysql&logoColor=22D3EE) ![SQL Server](https://img.shields.io/badge/SQL_Server-0A101F?style=flat-square&logo=microsoftsqlserver&logoColor=A78BFA) ![Supabase](https://img.shields.io/badge/Supabase-0A101F?style=flat-square&logo=supabase&logoColor=10B981) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=22D3EE) ![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=flat-square&logo=github&logoColor=A78BFA) ![VS Code](https://img.shields.io/badge/VS_Code-0A101F?style=flat-square&logo=visualstudiocode&logoColor=22D3EE) ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-0A101F?style=flat-square&logo=apache&logoColor=A78BFA) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0A101F?style=flat-square&logo=intellijidea&logoColor=22D3EE) ![Linux](https://img.shields.io/badge/Linux-0A101F?style=flat-square&logo=linux&logoColor=10B981) |
 
 </div>
 
@@ -77,11 +77,7 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions&theme=dark" alt="Docker, DevOps" />
-<br/>
-<img src="https://img.shields.io/badge/Arquitectura_de_Software-0A101F?style=flat-square&logoColor=22D3EE" alt="Arquitectura de Software"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-0A101F?style=flat-square&logoColor=A78BFA" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/Patrones_de_Diseño-0A101F?style=flat-square&logoColor=22D3EE" alt="Patrones de Diseño"/>
+![Arquitectura de Software](https://img.shields.io/badge/Arquitectura_de_Software-0A101F?style=flat-square&logoColor=22D3EE) ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A101F?style=flat-square&logoColor=A78BFA) ![Patrones de Diseño](https://img.shields.io/badge/Patrones_de_Diseño-0A101F?style=flat-square&logoColor=22D3EE) ![DevOps](https://img.shields.io/badge/DevOps-0A101F?style=flat-square&logo=githubactions&logoColor=10B981) ![Docker](https://img.shields.io/badge/Docker-0A101F?style=flat-square&logo=docker&logoColor=A78BFA)
 
 </div>
 
