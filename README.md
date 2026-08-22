@@ -30,16 +30,26 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhony-vx&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhony-vx&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhony-vx&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhony-vx&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 </div>
 
-## 🚀 Proyectos en los que trabajo
+## 🚀 Proyectos
+
+### Proyectos propios
 
 * **iOni OS**: un sistema operativo personal (Life OS) diseñado para organizar tareas, proyectos, notas y objetivos desde una única plataforma.
-* **VEXA**: iniciativa enfocada en el desarrollo de soluciones digitales para empresas.
-* **FIVUZA ERP**: sistema ERP modular orientado a la gestión empresarial mediante módulos independientes.
+* [**Rumbo**](https://github.com/jhony-vx/rumbo) ![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=22D3EE)
+* [**Horóscopo Semanal**](https://github.com/jhony-vx/horoscopo-semanal) ![Astro](https://img.shields.io/badge/Astro-0A101F?style=flat-square&logo=astro&logoColor=A78BFA)
+* [**Archivo 616**](https://github.com/jhony-vx/archivo-616) ![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE)
+
+### Colaboraciones
+
+* **VEXA**: iniciativa enfocada en el desarrollo de soluciones digitales para empresas — [github.com/vexa-dev](https://github.com/vexa-dev)
+  * [FIVUZA ERP — Backend](https://github.com/vexa-dev/FivuzaBackend) ![Python](https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=10B981)
+  * [FIVUZA ERP — Frontend](https://github.com/vexa-dev/FivuzaFrontend) ![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=22D3EE)
+* [**KJA**](https://github.com/kjabienestar-ux/KJA) ![HTML](https://img.shields.io/badge/HTML-0A101F?style=flat-square&logo=html5&logoColor=A78BFA)
 
 ## 💻 Tecnologías
 
