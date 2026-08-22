@@ -1,17 +1,17 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhony-abz/jhony-abz/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhony-abz/jhony-abz/main/light.svg">
-  <img alt="Jhony Rivera" width="100%" src="https://raw.githubusercontent.com/jhony-abz/jhony-abz/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhony-vx/jhony-vx/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhony-vx/jhony-vx/main/light.svg">
+  <img alt="Jhony Rivera" width="100%" src="https://raw.githubusercontent.com/jhony-vx/jhony-vx/main/light.svg">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhony-abz/jhony-abz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhony-abz/jhony-abz/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/jhony-abz/jhony-abz/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhony-vx/jhony-vx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhony-vx/jhony-vx/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" width="100%" src="https://raw.githubusercontent.com/jhony-vx/jhony-vx/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -26,12 +26,12 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=jhony-abz&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=jhony-vx&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhony-abz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhony-abz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhony-vx&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhony-vx&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 </div>
 

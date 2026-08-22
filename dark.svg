@@ -1,23 +1,14 @@
-<svg width="1180" height="460" viewBox="0 0 1180 460" xmlns="http://www.w3.org/2000/svg">
+<svg width="1180" height="550" viewBox="0 0 1180 550" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <clipPath id="outerClip"><rect x="0" y="0" width="1180" height="460" rx="20"/></clipPath>
-    <clipPath id="avatarClip"><circle cx="1080" cy="130" r="64"/></clipPath>
-
+    <clipPath id="outerClip"><rect x="0" y="0" width="1180" height="550" rx="20"/></clipPath>
     <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#22D3EE"/>
       <stop offset="1" stop-color="#A78BFA"/>
     </linearGradient>
-    <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#A78BFA"/>
-    </linearGradient>
-    <filter id="avatarGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="14"/>
-    </filter>
   </defs>
 
   <g clip-path="url(#outerClip)">
-    <rect x="0" y="0" width="1180" height="460" fill="#0A101F"/>
+    <rect x="0" y="0" width="1180" height="550" fill="#0A101F"/>
     <rect x="0" y="0" width="1180" height="44" fill="#0F1629"/>
     <circle cx="24" cy="22" r="6" fill="#EF4444"/>
     <circle cx="48" cy="22" r="6" fill="#F59E0B"/>
@@ -29,39 +20,31 @@
     </circle>
     <text x="1105" y="27" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#EF4444">LIVE</text>
 
-    <!-- avatar -->
-    <circle cx="1080" cy="130" r="90" fill="#22D3EE" opacity="0.28" filter="url(#avatarGlow)"/>
-    <circle cx="1080" cy="130" r="68" fill="none" stroke="url(#ringGrad)" stroke-width="3"/>
-    <image href="https://raw.githubusercontent.com/jhony-abz/jhony-abz/main/github-profile.jpg" x="1016" y="66" width="128" height="128" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
-    <circle cx="1080" cy="130" r="64" fill="none" stroke="#0A101F" stroke-width="2"/>
-    <rect x="1010" y="208" width="140" height="26" rx="13" fill="#10B981" fill-opacity="0.15" stroke="#10B981"/>
-    <text x="1080" y="225" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#10B981">@jhony-abz</text>
+    <!-- ascii logo -->
+    <text x="63" y="83" font-family="Consolas, 'Cascadia Mono', monospace" font-size="20" fill="#000000" opacity="0.35" xml:space="preserve"><tspan x="63" dy="0">       █████ █████                                     █████   █████ █████ █████</tspan><tspan x="63" dy="23">      ▒▒███ ▒▒███                                     ▒▒███   ▒▒███ ▒▒███ ▒▒███ </tspan><tspan x="63" dy="23">       ▒███  ▒███████    ██████  ████████   █████ ████ ▒███    ▒███  ▒▒███ ███  </tspan><tspan x="63" dy="23">       ▒███  ▒███▒▒███  ███▒▒███▒▒███▒▒███ ▒▒███ ▒███  ▒███    ▒███   ▒▒█████   </tspan><tspan x="63" dy="23">       ▒███  ▒███ ▒███ ▒███ ▒███ ▒███ ▒███  ▒███ ▒███  ▒▒███   ███     ███▒███  </tspan><tspan x="63" dy="23"> ███   ▒███  ▒███ ▒███ ▒███ ▒███ ▒███ ▒███  ▒███ ▒███   ▒▒▒█████▒     ███ ▒▒███ </tspan><tspan x="63" dy="23">▒▒████████   ████ █████▒▒██████  ████ █████ ▒▒███████     ▒▒███      █████ █████</tspan><tspan x="63" dy="23"> ▒▒▒▒▒▒▒▒   ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒ ▒▒▒▒▒   ▒▒▒▒▒███      ▒▒▒      ▒▒▒▒▒ ▒▒▒▒▒ </tspan><tspan x="63" dy="23">                                             ███ ▒███                           </tspan><tspan x="63" dy="23">                                            ▒▒██████                            </tspan><tspan x="63" dy="23">                                             ▒▒▒▒▒▒</tspan></text>
+    <text x="60" y="80" font-family="Consolas, 'Cascadia Mono', monospace" font-size="20" fill="url(#textGrad)" xml:space="preserve"><tspan x="60" dy="0">       █████ █████                                     █████   █████ █████ █████</tspan><tspan x="60" dy="23">      ▒▒███ ▒▒███                                     ▒▒███   ▒▒███ ▒▒███ ▒▒███ </tspan><tspan x="60" dy="23">       ▒███  ▒███████    ██████  ████████   █████ ████ ▒███    ▒███  ▒▒███ ███  </tspan><tspan x="60" dy="23">       ▒███  ▒███▒▒███  ███▒▒███▒▒███▒▒███ ▒▒███ ▒███  ▒███    ▒███   ▒▒█████   </tspan><tspan x="60" dy="23">       ▒███  ▒███ ▒███ ▒███ ▒███ ▒███ ▒███  ▒███ ▒███  ▒▒███   ███     ███▒███  </tspan><tspan x="60" dy="23"> ███   ▒███  ▒███ ▒███ ▒███ ▒███ ▒███ ▒███  ▒███ ▒███   ▒▒▒█████▒     ███ ▒▒███ </tspan><tspan x="60" dy="23">▒▒████████   ████ █████▒▒██████  ████ █████ ▒▒███████     ▒▒███      █████ █████</tspan><tspan x="60" dy="23"> ▒▒▒▒▒▒▒▒   ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒  ▒▒▒▒ ▒▒▒▒▒   ▒▒▒▒▒███      ▒▒▒      ▒▒▒▒▒ ▒▒▒▒▒ </tspan><tspan x="60" dy="23">                                             ███ ▒███                           </tspan><tspan x="60" dy="23">                                            ▒▒██████                            </tspan><tspan x="60" dy="23">                                             ▒▒▒▒▒▒</tspan></text>
 
-    <!-- big logo -->
-    <text x="66" y="176" font-family="Consolas, monospace" font-size="96" font-weight="800" letter-spacing="2" fill="#000000" opacity="0.35">JHONYVX</text>
-    <text x="60" y="170" font-family="Consolas, monospace" font-size="96" font-weight="800" letter-spacing="2" fill="url(#textGrad)">JHONYVX</text>
+    <line x1="60" y1="330" x2="1140" y2="330" stroke="#22D3EE" stroke-opacity="0.25"/>
 
-    <line x1="60" y1="200" x2="1140" y2="200" stroke="#22D3EE" stroke-opacity="0.25"/>
+    <text x="60" y="356" font-family="Consolas, monospace" font-size="20" font-weight="600" fill="#10B981">&#9654;</text>
+    <text x="90" y="356" font-family="Consolas, monospace" font-size="20" font-weight="600" fill="#F8FAFC">PowerShell Session Ready</text>
+    <text x="60" y="382" font-family="Consolas, monospace" font-size="14" fill="#94A3B8">// jhony@github &#8226; Full-Stack Developer</text>
 
-    <text x="60" y="230" font-family="Consolas, monospace" font-size="20" font-weight="600" fill="#10B981">&#9654;</text>
-    <text x="90" y="230" font-family="Consolas, monospace" font-size="20" font-weight="600" fill="#F8FAFC">PowerShell Session Ready</text>
-    <text x="60" y="256" font-family="Consolas, monospace" font-size="14" fill="#94A3B8">// jhony@github &#8226; Full-Stack Developer</text>
+    <line x1="60" y1="400" x2="1140" y2="400" stroke="#334155" stroke-dasharray="1,4"/>
 
-    <line x1="60" y1="276" x2="1140" y2="276" stroke="#334155" stroke-dasharray="1,4"/>
+    <text x="60" y="426" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">Lima, Peru &#8226; Ing. Sistemas e Informatica &#8226; Building + Learning + Shipping</text>
+    <text x="60" y="450" font-family="Consolas, monospace" font-size="14" fill="#F8FAFC">Java &#183; JS &#183; TS &#183; React &#183; Spring Boot &#183; MySQL &#183; Git</text>
 
-    <text x="60" y="302" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">Lima, Peru &#8226; Ing. Sistemas e Informatica &#8226; Building + Learning + Shipping</text>
-    <text x="60" y="326" font-family="Consolas, monospace" font-size="14" fill="#F8FAFC">Java &#183; JS &#183; TS &#183; React &#183; Spring Boot &#183; MySQL &#183; Git</text>
+    <line x1="60" y1="468" x2="1140" y2="468" stroke="#334155" stroke-dasharray="1,4"/>
 
-    <line x1="60" y1="346" x2="1140" y2="346" stroke="#334155" stroke-dasharray="1,4"/>
-
-    <text x="60" y="372" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">jhony.vx@outlook.com &#160;&#183;&#160; /in/jhonyrivera &#160;&#183;&#160; @jhony-abz</text>
+    <text x="60" y="494" font-family="Consolas, monospace" font-size="13" fill="#94A3B8">jhony.vx@outlook.com &#160;&#183;&#160; /in/jhonyrivera &#160;&#183;&#160; @jhony-vx</text>
 
     <!-- prompt -->
-    <text x="60" y="416" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#22D3EE">PS C:\Users\jhony&gt;</text>
-    <rect x="248" y="402" width="10" height="18" fill="#F8FAFC">
+    <text x="60" y="528" font-family="Consolas, monospace" font-size="16" font-weight="600" fill="#22D3EE">PS C:\Users\jhony&gt;</text>
+    <rect x="248" y="514" width="10" height="18" fill="#F8FAFC">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
 
-    <rect x="1" y="1" width="1178" height="458" rx="20" fill="none" stroke="#22D3EE" stroke-opacity="0.35"/>
+    <rect x="1" y="1" width="1178" height="548" rx="20" fill="none" stroke="#22D3EE" stroke-opacity="0.35"/>
   </g>
 </svg>
