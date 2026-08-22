@@ -53,33 +53,23 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 |---|---|---|
 | [**FIVUZA ERP · Backend**](https://github.com/vexa-dev/FivuzaBackend) | API REST del ERP SaaS multi-tenant de Fivuza para pequeños y medianos negocios (bodegas, gimnasios, retail), con aislamiento de datos por esquema de PostgreSQL (schema-per-tenant vía django-tenants). | ![Django](https://img.shields.io/badge/-Django-0A101F?style=flat-square&logo=django&logoColor=10B981) |
 | [**FIVUZA ERP · Frontend**](https://github.com/vexa-dev/FivuzaFrontend) | Frontend del mismo ERP SaaS multi-tenant de Fivuza, construido con React, TypeScript y Vite. | ![React](https://img.shields.io/badge/-React-0A101F?style=flat-square&logo=react&logoColor=22D3EE) |
+
+**Otras colaboraciones**
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
 | [**KJA**](https://github.com/kjabienestar-ux/KJA) | Sitio oficial de KJA Centro Psicológico: plataforma informativa y de agendamiento de citas para terapia (individual, infantil, adolescentes, parejas y familias), cursos y talleres en Lima, Perú. | ![HTML](https://img.shields.io/badge/-HTML-0A101F?style=flat-square&logo=html5&logoColor=A78BFA) |
 
 ## 💻 Tecnologías
 
 <div align="center">
 
-**Lenguajes**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Java, JavaScript, TypeScript, HTML, CSS" />
-
-<br/><br/>
-
-**Frameworks y librerías**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,react,vite,tailwind,bootstrap&theme=dark" alt="Spring Boot, React, Vite, Tailwind CSS, Bootstrap" />
-
-<br/><br/>
-
-**Bases de datos**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mssql,supabase&theme=dark" alt="MySQL, SQL Server, Supabase" />
-
-<br/><br/>
-
-**Herramientas**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,idea,linux&theme=dark" alt="Git, GitHub, VS Code, Apache NetBeans, IntelliJ IDEA, Linux" />
+| | |
+|---|---|
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Java, JavaScript, TypeScript, HTML, CSS" /> |
+| **Frameworks y librerías** | <img src="https://skillicons.dev/icons?i=spring,react,vite,tailwind,bootstrap&theme=dark" alt="Spring Boot, React, Vite, Tailwind CSS, Bootstrap" /> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,mssql,supabase&theme=dark" alt="MySQL, SQL Server, Supabase" /> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,idea,linux&theme=dark" alt="Git, GitHub, VS Code, Apache NetBeans, IntelliJ IDEA, Linux" /> |
 
 </div>
 
@@ -87,11 +77,11 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arquitectura_de_Software-0A101F?style=for-the-badge&logoColor=22D3EE" alt="Arquitectura de Software"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-0A101F?style=for-the-badge&logoColor=A78BFA" alt="Clean Architecture"/>
-<img src="https://img.shields.io/badge/Patrones_de_Diseño-0A101F?style=for-the-badge&logoColor=22D3EE" alt="Patrones de Diseño"/>
-<img src="https://img.shields.io/badge/DevOps-0A101F?style=for-the-badge&logo=githubactions&logoColor=10B981" alt="DevOps"/>
-<img src="https://img.shields.io/badge/Docker-0A101F?style=for-the-badge&logo=docker&logoColor=A78BFA" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions&theme=dark" alt="Docker, DevOps" />
+<br/>
+<img src="https://img.shields.io/badge/Arquitectura_de_Software-0A101F?style=flat-square&logoColor=22D3EE" alt="Arquitectura de Software"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-0A101F?style=flat-square&logoColor=A78BFA" alt="Clean Architecture"/>
+<img src="https://img.shields.io/badge/Patrones_de_Diseño-0A101F?style=flat-square&logoColor=22D3EE" alt="Patrones de Diseño"/>
 
 </div>
 
