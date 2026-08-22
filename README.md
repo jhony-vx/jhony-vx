@@ -41,9 +41,9 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**Rumbo**](https://github.com/jhony-vx/rumbo) | Sistema web personal para organizar universidad, trabajo y vida diaria desde un solo espacio. | ![TypeScript](https://img.shields.io/badge/-TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=22D3EE) |
-| [**Horóscopo Semanal**](https://github.com/jhony-vx/horoscopo-semanal) | Sitio estático de entretenimiento con ranking editorial de los 12 signos, lecturas individuales y pronósticos por periodo, con experiencia responsive. | ![Astro](https://img.shields.io/badge/-Astro-0A101F?style=flat-square&logo=astro&logoColor=A78BFA) |
-| [**Archivo 616**](https://github.com/jhony-vx/archivo-616) | Guía cronológica y tracker no oficial del MCU, la saga Defenders y universos conectados, con identidad de "expediente TVA" y un modelo canónico único de catálogo, rutas y progreso. | ![JavaScript](https://img.shields.io/badge/-JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE) |
+| [**Rumbo**](https://github.com/jhony-vx/rumbo) | Sistema web personal para organizar universidad, trabajo y vida diaria desde un solo espacio. | <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="24" alt="TypeScript" /> |
+| [**Horóscopo Semanal**](https://github.com/jhony-vx/horoscopo-semanal) | Sitio estático de entretenimiento con ranking editorial de los 12 signos, lecturas individuales y pronósticos por periodo, con experiencia responsive. | <img src="https://skillicons.dev/icons?i=astro&theme=dark" height="24" alt="Astro" /> |
+| [**Archivo 616**](https://github.com/jhony-vx/archivo-616) | Guía cronológica y tracker no oficial del MCU, la saga Defenders y universos conectados, con identidad de "expediente TVA" y un modelo canónico único de catálogo, rutas y progreso. | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="24" alt="JavaScript" /> |
 
 ### Colaboraciones
 
@@ -51,14 +51,14 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**FIVUZA ERP · Backend**](https://github.com/vexa-dev/FivuzaBackend) | API REST del ERP SaaS multi-tenant de Fivuza para pequeños y medianos negocios (bodegas, gimnasios, retail), con aislamiento de datos por esquema de PostgreSQL (schema-per-tenant vía django-tenants). | ![Django](https://img.shields.io/badge/-Django-0A101F?style=flat-square&logo=django&logoColor=10B981) |
-| [**FIVUZA ERP · Frontend**](https://github.com/vexa-dev/FivuzaFrontend) | Frontend del mismo ERP SaaS multi-tenant de Fivuza, construido con React, TypeScript y Vite. | ![React](https://img.shields.io/badge/-React-0A101F?style=flat-square&logo=react&logoColor=22D3EE) |
+| [**FIVUZA ERP · Backend**](https://github.com/vexa-dev/FivuzaBackend) | API REST del ERP SaaS multi-tenant de Fivuza para pequeños y medianos negocios (bodegas, gimnasios, retail), con aislamiento de datos por esquema de PostgreSQL (schema-per-tenant vía django-tenants). | <img src="https://skillicons.dev/icons?i=python,django,postgresql&theme=dark" height="24" alt="Python, Django, PostgreSQL" /> |
+| [**FIVUZA ERP · Frontend**](https://github.com/vexa-dev/FivuzaFrontend) | Frontend del mismo ERP SaaS multi-tenant de Fivuza, construido con React, TypeScript y Vite. | <img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" height="24" alt="React, TypeScript, Vite" /> |
 
 **Otras colaboraciones**
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**KJA**](https://github.com/kjabienestar-ux/KJA) | Sitio oficial de KJA Centro Psicológico: plataforma informativa y de agendamiento de citas para terapia (individual, infantil, adolescentes, parejas y familias), cursos y talleres en Lima, Perú. | ![HTML](https://img.shields.io/badge/-HTML-0A101F?style=flat-square&logo=html5&logoColor=A78BFA) |
+| [**KJA**](https://github.com/kjabienestar-ux/KJA) | Sitio oficial de KJA Centro Psicológico: plataforma informativa y de agendamiento de citas para terapia (individual, infantil, adolescentes, parejas y familias), cursos y talleres en Lima, Perú. | <img src="https://skillicons.dev/icons?i=html&theme=dark" height="24" alt="HTML" /> |
 
 ## 💻 Tecnologías
 
