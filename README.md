@@ -39,17 +39,21 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 ### Proyectos propios
 
-* **iOni OS**: un sistema operativo personal (Life OS) diseñado para organizar tareas, proyectos, notas y objetivos desde una única plataforma.
-* [**Rumbo**](https://github.com/jhony-vx/rumbo) ![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=22D3EE)
-* [**Horóscopo Semanal**](https://github.com/jhony-vx/horoscopo-semanal) ![Astro](https://img.shields.io/badge/Astro-0A101F?style=flat-square&logo=astro&logoColor=A78BFA)
-* [**Archivo 616**](https://github.com/jhony-vx/archivo-616) ![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE)
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**Rumbo**](https://github.com/jhony-vx/rumbo) | Sistema web personal para organizar universidad, trabajo y vida diaria desde un solo espacio. | ![TypeScript](https://img.shields.io/badge/-TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=22D3EE) |
+| [**Horóscopo Semanal**](https://github.com/jhony-vx/horoscopo-semanal) | Sitio estático de entretenimiento con ranking editorial de los 12 signos, lecturas individuales y pronósticos por periodo, con experiencia responsive. | ![Astro](https://img.shields.io/badge/-Astro-0A101F?style=flat-square&logo=astro&logoColor=A78BFA) |
+| [**Archivo 616**](https://github.com/jhony-vx/archivo-616) | Guía cronológica y tracker no oficial del MCU, la saga Defenders y universos conectados, con identidad de "expediente TVA" y un modelo canónico único de catálogo, rutas y progreso. | ![JavaScript](https://img.shields.io/badge/-JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=22D3EE) |
 
 ### Colaboraciones
 
-* **VEXA**: iniciativa enfocada en el desarrollo de soluciones digitales para empresas — [github.com/vexa-dev](https://github.com/vexa-dev)
-  * [FIVUZA ERP — Backend](https://github.com/vexa-dev/FivuzaBackend) ![Python](https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=10B981)
-  * [FIVUZA ERP — Frontend](https://github.com/vexa-dev/FivuzaFrontend) ![TypeScript](https://img.shields.io/badge/TypeScript-0A101F?style=flat-square&logo=typescript&logoColor=22D3EE)
-* [**KJA**](https://github.com/kjabienestar-ux/KJA) ![HTML](https://img.shields.io/badge/HTML-0A101F?style=flat-square&logo=html5&logoColor=A78BFA)
+**VEXA** — iniciativa enfocada en el desarrollo de soluciones digitales para empresas · [github.com/vexa-dev](https://github.com/vexa-dev)
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**FIVUZA ERP · Backend**](https://github.com/vexa-dev/FivuzaBackend) | API REST del ERP SaaS multi-tenant de Fivuza para pequeños y medianos negocios (bodegas, gimnasios, retail), con aislamiento de datos por esquema de PostgreSQL (schema-per-tenant vía django-tenants). | ![Django](https://img.shields.io/badge/-Django-0A101F?style=flat-square&logo=django&logoColor=10B981) |
+| [**FIVUZA ERP · Frontend**](https://github.com/vexa-dev/FivuzaFrontend) | Frontend del mismo ERP SaaS multi-tenant de Fivuza, construido con React, TypeScript y Vite. | ![React](https://img.shields.io/badge/-React-0A101F?style=flat-square&logo=react&logoColor=22D3EE) |
+| [**KJA**](https://github.com/kjabienestar-ux/KJA) | Sitio oficial de KJA Centro Psicológico: plataforma informativa y de agendamiento de citas para terapia (individual, infantil, adolescentes, parejas y familias), cursos y talleres en Lima, Perú. | ![HTML](https://img.shields.io/badge/-HTML-0A101F?style=flat-square&logo=html5&logoColor=A78BFA) |
 
 ## 💻 Tecnologías
 
@@ -57,41 +61,25 @@ Actualmente afianzo mis bases en desarrollo **Full Stack**, arquitectura de soft
 
 **Lenguajes**
 <br/>
-<img src="https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=22D3EE" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=A78BFA" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-0A101F?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=A78BFA" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=22D3EE" alt="CSS3"/>
-<img src="https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=postgresql&logoColor=A78BFA" alt="SQL"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" alt="Java, JavaScript, TypeScript, HTML, CSS" />
 
 <br/><br/>
 
 **Frameworks y librerías**
 <br/>
-<img src="https://img.shields.io/badge/Spring_Boot-0A101F?style=for-the-badge&logo=springboot&logoColor=10B981" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React"/>
-<img src="https://img.shields.io/badge/Vite-0A101F?style=for-the-badge&logo=vite&logoColor=A78BFA" alt="Vite"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0A101F?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-0A101F?style=for-the-badge&logo=bootstrap&logoColor=A78BFA" alt="Bootstrap"/>
+<img src="https://skillicons.dev/icons?i=spring,react,vite,tailwind,bootstrap&theme=dark" alt="Spring Boot, React, Vite, Tailwind CSS, Bootstrap" />
 
 <br/><br/>
 
 **Bases de datos**
 <br/>
-<img src="https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql&logoColor=22D3EE" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL_Server-0A101F?style=for-the-badge&logo=microsoftsqlserver&logoColor=A78BFA" alt="SQL Server"/>
-<img src="https://img.shields.io/badge/Supabase-0A101F?style=for-the-badge&logo=supabase&logoColor=10B981" alt="Supabase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mssql,supabase&theme=dark" alt="MySQL, SQL Server, Supabase" />
 
 <br/><br/>
 
 **Herramientas**
 <br/>
-<img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/Apache_NetBeans-0A101F?style=for-the-badge&logo=apache&logoColor=A78BFA" alt="Apache NetBeans"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-0A101F?style=for-the-badge&logo=intellijidea&logoColor=22D3EE" alt="IntelliJ IDEA"/>
-<img src="https://img.shields.io/badge/Linux-0A101F?style=for-the-badge&logo=linux&logoColor=10B981" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netbeans,idea,linux&theme=dark" alt="Git, GitHub, VS Code, Apache NetBeans, IntelliJ IDEA, Linux" />
 
 </div>
 
